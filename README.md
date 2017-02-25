@@ -71,3 +71,9 @@ for ($y = 0; $y < $iHeight; $y++) {
 }
 ```
 
+Result of example.php
+---------------------
+
+For seed : 53317, octave : 5 and frequency 0.025
+
+![result](http://jeremyginer.github.io/img/example.s53317.o5.f0025.png)
